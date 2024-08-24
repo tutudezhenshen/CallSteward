@@ -5,14 +5,6 @@ This software is designed for file transsmission in long-range transmission on W
 It's has all undergone on-site network testing on OTN/MPLS/SD-WAN with 10/25/100Gigabit speed.
 ###
 
-## You can get test details through the following links
-### https://mp.weixin.qq.com/s/oI_pHtfX_f3Pt2hjzcA6qA
-### https://mp.weixin.qq.com/s/pPFif1BnKLqEUISEQvJJUw
-## If you want to get more details about fdata, please contact us: 
-### wechat: tutudezhenshen
-### Tel: 181-2363-6905
-### E-mail: shanshuyida@yeah.net
-
 
 ## iperf3 100Gbps test
 ### run on server end
@@ -32,3 +24,15 @@ ib_write_bw -d fdata -s 1M -t 4 -q 64 -m 1024 --report_gbits --run_infinitely -R
 ib_write_bw -d fdata -s 1M -t 4 -q 64 -m 1024 --report_gbits --run_infinitely -R ip_addr
 
 ![image](https://github.com/user-attachments/assets/f30adce6-21d7-4b8d-8fdb-3e0ac868759b)
+
+
+## You can get test details through the following links
+### https://mp.weixin.qq.com/s/oI_pHtfX_f3Pt2hjzcA6qA
+### https://mp.weixin.qq.com/s/pPFif1BnKLqEUISEQvJJUw
+##
+
+## If you want to get more details about fdata, please contact us: 
+### wechat: tutudezhenshen
+### Tel: 181-2363-6905
+### E-mail: shanshuyida@yeah.net
+##
