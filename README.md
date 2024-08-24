@@ -1,8 +1,10 @@
 Fdata
 ============
+Copyright (c) 2023-2043 shanshuyida Technology Co., Ltd. and/or its Affiliates
+============
 This software is designed for file transsmission in long-range transmission on WAN with maximum 100 Gigabit speed.
 It's has all undergone on-site network testing on OTN/MPLS/SD-WAN with 1/10/25/100 Gigabit speed.
-
+============
 
 # iperf3 100Gbps test
 ## run on server end
@@ -24,12 +26,13 @@ ib_write_bw -d fdata -s 4M -q 4 --report_gbits --run_infinitely -R ip_addr
 ![image](https://github.com/user-attachments/assets/f30adce6-21d7-4b8d-8fdb-3e0ac868759b)
 ##
 
-# You can get test details through the following links
+## More details
+### You can get test details through the following links
 - https://mp.weixin.qq.com/s/oI_pHtfX_f3Pt2hjzcA6qA
 - https://mp.weixin.qq.com/s/pPFif1BnKLqEUISEQvJJUw
 
 
-# If you want to get more details about fdata, please contact us: 
+### If you want to get more details about fdata, please contact us: 
 - wechat: tutudezhenshen
 - Tel: 181-2363-6905
 - E-mail: shanshuyida@yeah.net
