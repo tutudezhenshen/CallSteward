@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/eb08f2fa-1195-428b-a502-c2cb7ddb2d9e)
 ============
-Copyright (c) 2023-2043 shanshuyida Technology Co., Ltd. and/or its Affiliates.
-This software is developed by shanshuyida Technology Co., Ltd,
+- Copyright (c) 2023-2043 shanshuyida Technology Co., Ltd. and/or its Affiliates.
+- This software is developed by shanshuyida Technology Co., Ltd,
 which is the earliest company in China to do researching high-bandwidth transmission in L4 on WAN.
-It's designed for file transsmission in long-range transmission on WAN with maximum 100 Gigabit speed
+- It's designed for file transsmission in long-range transmission on WAN with maximum 100 Gigabit speed
 and has all undergone on-site network testing on OTN/MPLS/SD-WAN with 1/10/25/100 Gigabit speed.
 
 
